@@ -1,10 +1,10 @@
-📌 Project Overview
+Project Overview
 
 The Grocery Store Management System is a SQL-based database project designed to manage and analyze grocery store operations efficiently.
 
 This system handles product inventory, customer records, order processing, and sales tracking while generating meaningful business insights using SQL queries.
 
-🎯 Objectives
+Objectives
 
 Design a structured relational database
 
@@ -16,7 +16,7 @@ Analyze sales performance
 
 Generate business insights using SQL
 
-🗂️ Database Structure
+ Database Structure
 
 The project includes the following tables:
 
@@ -28,7 +28,7 @@ Orders – Order ID, Customer ID, Date
 
 Order_Details – Product ID, Quantity, Total Price
 
-⚙️ Features
+ Features
 
 ✅ CRUD Operations (Create, Read, Update, Delete)
 
@@ -42,7 +42,7 @@ Order_Details – Product ID, Quantity, Total Price
 
 ✅ Category-wise Performance Tracking
 
-🛠️ Technologies Used
+ Technologies Used
 
 SQL (MySQL / PostgreSQL)
 
@@ -54,7 +54,7 @@ Joins, Subqueries, Aggregations
 
 Constraints (Primary Key, Foreign Key, NOT NULL, etc.)
 
-📊 Sample Business Insights
+ Sample Business Insights
 
 Identify top-selling products
 
@@ -66,7 +66,7 @@ Calculate monthly revenue
 
 Analyze category-wise sales trends
 
-🚀 How to Use
+ How to Use
 
 Import the SQL file into your database system.
 
